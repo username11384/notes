@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "6af1c0c4712f4f55",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3708a6eb21e3616",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "School/Year 9/Math/Term 2/Degrees, Minutes, Seconds.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e61d4d02d291f888",
+    "type": "split",
+    "children": [
+      {
+        "id": "479fd6c343ffbcf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "702e1b46409459e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65f583556fd86b40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#School",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d522d1256448a770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7e99d952aa4127e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438
+  },
+  "right": {
+    "id": "c5753499e37d71a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb74fb741e672ba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e31d142357e3420a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "420aedc7793b3153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ede181ebb28efa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/Year 9/Math/Term 2/Degrees, Minutes, Seconds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1de5493852be2d24",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e4c6f0be6b64906",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a3708a6eb21e3616",
+  "lastOpenFiles": [
+    "School/Year 9/Math/Term 2/Degrees, Minutes, Seconds.md",
+    "School/Year 9/Math/Term 2/Trig Questions.md",
+    "calendar/2022-05-02.md",
+    "calendar/2022-05-01.md",
+    "Excalidraw/Drawing 2022-05-01 09.11.02.excalidraw.md",
+    "Untitled.md",
+    "calendar/2022-04-30.md",
+    "Linux/Manjaro/buildiso.md",
+    "calendar/2022-04-29.md",
+    "git/init new repo from cli.md"
+  ]
+}

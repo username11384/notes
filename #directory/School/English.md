@@ -1,0 +1,10 @@
+#School 
+[[T1 Assessment]]
+[[Persuasive Structure]]
+[[Being stripped of their rights in history]]
+[[Heavy discrimination against black people]]
+[[Introduction]]
+[[Police brutality against black people]]
+[[Assessment Outline]]
+[[Conclusion]]
+[[Self Reflection]]
